@@ -15,4 +15,12 @@ public class CommitPart3 {
 	   System.out.println("Comitting");
    }
    
+   void reset(){
+   }
+   
+   void create(){
+   }
+   
+   void update(){
+   }
 }
