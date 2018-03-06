@@ -19,4 +19,6 @@ public class CommitPart2 {
 	   System.out.println("Comitting");
    }
    
+   void append(){
+   }
 }
