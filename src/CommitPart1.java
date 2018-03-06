@@ -12,7 +12,7 @@ public class CommitPart1 {
      */
 	 
    void perform() {
-	   System.out.println("Comitting");
+	   System.out.println("Comitting edited.");
    }
    
 }
