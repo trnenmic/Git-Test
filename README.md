@@ -1,2 +1,2 @@
 # Git-Test
-Changed from local repository.
+Changed from github.
